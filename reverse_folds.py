@@ -217,6 +217,17 @@ def smallest_start(pattern, max_size):
     return None
     #print('None found with size <= ' + str(max_size))
 
+def fewest_folds(pattern, max_size):
+    best = None
+    for s in range(4, max_size + 1):
+        k = find_unfolding(pattern, s)
+        if not best or len(best[0]) > len(k[0]):
+            best = k
+    if best:
+        return folding_instructions(best[1], best[2])
+    else:
+        return None
+
 def print_pattern(pattern):
     print('\n'.join(''.join('!X_'[i] for i in row) for row in pattern))
 

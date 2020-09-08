@@ -1,5 +1,6 @@
 from functools import reduce
 from itertools import product
+import sys
 
 #State arrays are 2D rectangular arrays full of integers from -2 to 2, inclusive
 #The numbers represent colored grid squares as follows:
@@ -229,3 +230,4 @@ for i in range(1, 51):
         print_pattern(patterns[i])
         print(x[0])
     print()
+    sys.stdout.flush()

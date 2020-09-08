@@ -1,5 +1,6 @@
 from functools import reduce
 from itertools import product
+import sys
 
 #State arrays are 2D rectangular arrays full of integers from -2 to 2, inclusive
 #The numbers represent colored grid squares as follows:
@@ -410,6 +411,13 @@ def smallest_start(pattern, max_size, min_size = 4):
     #return None
     print('None found with size <= ' + str(max_size))
 
+def fewest_folds(pattern, max_size):
+    k = find_unfolding(pattern, max_size)
+    if k:
+        return folding_instructions(k[1], k[2])
+    else:
+        return None
+
 def print_pattern(pattern):
     print('\n'.join(''.join('!X_'[i] for i in row) for row in pattern))
 
@@ -417,13 +425,14 @@ a = find_unfolding(patterns[50], 9, None, 9, True)
 x = open('50.txt', 'w')
 x.write(str(a))
 x.close()
-##for i in range(1, 51):
-##    x = smallest_start(patterns[i], 8)
-##    if x is None:
-##        print('Pattern ' + str(i) + ': none found with size <= 8')
-##        print_pattern(patterns[i])
-##    else:
-##        print('Pattern ' + str(i) + ': ' + str(x[1]) + 'x' + str(x[1]) + ', ' + str(x[0].count('\n')) + ' steps')
-##        print_pattern(patterns[i])
-##        print(x[0])
-##    print()
+for i in range(1, 51):
+    x = smallest_start(patterns[i], 8)
+    if x is None:
+        print('Pattern ' + str(i) + ': none found with size <= 8')
+        print_pattern(patterns[i])
+    else:
+        print('Pattern ' + str(i) + ': ' + str(x[1]) + 'x' + str(x[1]) + ', ' + str(x[0].count('\n')) + ' steps')
+        print_pattern(patterns[i])
+        print(x[0])
+    print()
+    sys.stdout.flush()

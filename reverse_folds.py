@@ -64,6 +64,33 @@ patterns = {1: ((1, 2, 2), (2, 2, 2), (2, 2, 2)),
             49: ((2, 1, 2), (1, 1, 1), (2, 2, 2)),
             50: ((2, 1, 2), (1, 2, 1), (2, 1, 2))}
 
+font = {'A': ((1, 1, 1), (1, 2, 1), (1, 1, 1), (1, 2, 1)),
+        'B': ((1, 2, 2), (1, 1, 1), (1, 2, 1), (1, 1, 1)),
+        'C': ((1, 1, 1), (1, 2, 2), (1, 2, 2), (1, 1, 1)),
+        'D': ((2, 2, 1), (1, 1, 1), (1, 2, 1), (1, 1, 1)),
+        'E': ((1, 1, 1), (1, 2, 2), (1, 1, 2), (1, 1, 1)),
+        'F': ((1, 1, 1), (1, 2, 2), (1, 1, 2), (1, 2, 2)),
+        'G': ((1, 1, 1), (1, 2, 2), (1, 2, 1), (1, 1, 1)),
+        'H': ((1, 2, 1), (1, 1, 1), (1, 1, 1), (1, 2, 1)),
+        'I': ((1, 1, 1), (2, 1, 2), (2, 1, 2), (1, 1, 1)),
+        'J': ((2, 2, 1), (2, 2, 1), (1, 2, 1), (1, 1, 1)),
+        'K': ((1, 2, 1), (1, 1, 2), (1, 1, 2), (1, 2, 1)),
+        'L': ((1, 2, 2), (1, 2, 2), (1, 2, 2), (1, 1, 1)),
+        'M': ((1, 1, 1), (1, 1, 1), (1, 2, 1), (1, 2, 1)),
+        'N': ((1, 2, 1), (1, 1, 2), (1, 2, 1), (1, 2, 1)),
+        'O': ((1, 1, 1), (1, 2, 1), (1, 2, 1), (1, 1, 1)),
+        'P': ((1, 1, 1), (1, 2, 1), (1, 1, 1), (1, 2, 2)),
+        'Q': ((1, 1, 1), (1, 2, 1), (1, 1, 1), (2, 2, 1)),
+        'R': ((1, 1, 1), (1, 2, 1), (1, 1, 2), (1, 2, 1)),
+        'S': ((1, 1, 1), (1, 2, 2), (2, 1, 1), (1, 1, 1)),
+        'T': ((1, 1, 1), (2, 1, 2), (2, 1, 2), (2, 1, 2)),
+        'U': ((1, 2, 1), (1, 2, 1), (1, 2, 1), (1, 1, 1)),
+        'V': ((1, 2, 1), (1, 2, 1), (1, 2, 1), (2, 1, 2)),
+        'W': ((1, 2, 1), (1, 2, 1), (1, 1, 1), (1, 1, 1)),
+        'X': ((1, 2, 1), (2, 1, 2), (2, 1, 2), (1, 2, 1)),
+        'Y': ((1, 2, 1), (1, 1, 1), (2, 1, 2), (2, 1, 2)),
+        'Z': ((1, 1, 1), (2, 2, 1), (1, 1, 2), (1, 1, 1)),}
+
 def check(state, known_min = 0):
     ''' check(state array, known_min = 0) -> bool
 Checks if state is a square, and if black and white are on different sides.
@@ -190,7 +217,8 @@ def unfold_sparse(state, direction, coord, mountain):
     return sort_sparse((width, height, newPoints))
 
 def pattern_to_sparse(pattern):
-    return (3, 3, tuple([(j, i, pattern[i][j]) for (i, j) in product(range(3), range(3))]))
+    width, height = len(pattern[0]), len(pattern)
+    return (width, height, tuple([(j, i, pattern[i][j]) for (i, j) in product(range(height), range(width))]))
 
 def check_sparse(state):
     width, height, points = state
@@ -320,7 +348,7 @@ def find_unfolding(pattern, max_size, max_steps = None, known_min = 0, sparse = 
                         if not sparse and check(newState, known_min):
                             return newState, folds[(state, steps - 1)] + ('T' + str(y) + 'VM'[foldType],), check(newState)
                         
-                #Top
+                #Bottom
                 y = 2 * height - width
                 if 0 < y < height:
                     for foldType in (True, False):
@@ -385,9 +413,9 @@ def find_unfolding(pattern, max_size, max_steps = None, known_min = 0, sparse = 
         queue = newQueue
     return False
 
-def folding_instructions(folds, starting_side):
+def folding_instructions(folds, starting_side, start_width = 3, start_height = 3):
     instructions = []
-    width, height = 3, 3
+    width, height = start_width, start_height
     for c, fold in enumerate(folds):
         direction = fold[0]
         coordinate = int(fold[1:-1])
@@ -401,12 +429,12 @@ def folding_instructions(folds, starting_side):
 
 def smallest_start(pattern, max_size, min_size = 4):
     for s in range(min_size, max_size + 1):
-        print()
-        print('Checking ' + str(s) + 'x' + str(s) + ' squares')
+        #print()
+        #print('Checking ' + str(s) + 'x' + str(s) + ' squares')
         k = find_unfolding(pattern, s)
         if k:
             #return folding_instructions(k[1], k[2])
-            print(folding_instructions(k[1], k[2])[0])
+            print(folding_instructions(k[1], k[2], len(pattern[0]), len(pattern))[0])
             return
     #return None
     print('None found with size <= ' + str(max_size))
@@ -414,25 +442,11 @@ def smallest_start(pattern, max_size, min_size = 4):
 def fewest_folds(pattern, max_size):
     k = find_unfolding(pattern, max_size)
     if k:
-        return folding_instructions(k[1], k[2])
+        return folding_instructions(k[1], k[2], len(pattern[0]), len(pattern))
     else:
         return None
 
 def print_pattern(pattern):
     print('\n'.join(''.join('!X_'[i] for i in row) for row in pattern))
 
-a = find_unfolding(patterns[50], 9, None, 9, True)
-x = open('50.txt', 'w')
-x.write(str(a))
-x.close()
-for i in range(1, 51):
-    x = smallest_start(patterns[i], 8)
-    if x is None:
-        print('Pattern ' + str(i) + ': none found with size <= 8')
-        print_pattern(patterns[i])
-    else:
-        print('Pattern ' + str(i) + ': ' + str(x[1]) + 'x' + str(x[1]) + ', ' + str(x[0].count('\n')) + ' steps')
-        print_pattern(patterns[i])
-        print(x[0])
-    print()
-    sys.stdout.flush()
+find_unfolding(font['M'], 9, None, 8, True)

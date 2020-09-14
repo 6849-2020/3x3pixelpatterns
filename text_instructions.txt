@@ -1,0 +1,1119 @@
+Pattern 1: 5x5, 2 steps
+
+XOO
+
+OOO
+
+OOO
+
+Start with a 5x5 sheet of paper with the black side up
+
+1. Valley fold the bottom 5x2 rectangle
+
+2. Valley fold the rightmost 2x3 rectangle
+
+
+
+Pattern 2: 5x5, 3 steps
+
+OXO
+
+OOO
+
+OOO
+
+Start with a 5x5 sheet of paper with the black side up
+
+1. Valley fold the rightmost 1x5 strip
+
+2. Valley fold the bottom 4x2 rectangle
+
+3. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 3: 5x5, 4 steps
+
+OOO
+
+OXO
+
+OOO
+
+Start with a 5x5 sheet of paper with the black side up
+
+1. Valley fold the bottom 5x1 strip
+
+2. Valley fold the top 5x1 strip
+
+3. Valley fold the rightmost 1x3 strip
+
+4. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 4: 4x4, 2 steps
+
+XXO
+
+OOO
+
+OOO
+
+Start with a 4x4 sheet of paper with the white side up
+
+1. Mountain fold the rightmost 1x4 strip
+
+2. Valley fold the top 3x1 strip
+
+
+
+Pattern 5: 5x5, 3 steps
+
+XOX
+
+OOO
+
+OOO
+
+Start with a 5x5 sheet of paper with the white side up
+
+1. Mountain fold the bottom 5x2 rectangle
+
+2. Valley fold the rightmost 1x3 strip
+
+3. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 6: 7x7, 7 steps
+
+XOO
+
+OXO
+
+OOO
+
+Start with a 7x7 sheet of paper with the black side up
+
+1. Mountain fold the leftmost 1x7 strip
+
+2. Valley fold the bottom 6x1 strip
+
+3. Valley fold the rightmost 1x6 strip
+
+4. Valley fold the top 5x2 rectangle
+
+5. Valley fold the leftmost 1x4 strip
+
+6. Mountain fold the top 4x1 strip
+
+7. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 7: 6x6, 6 steps
+
+XOO
+
+OOX
+
+OOO
+
+Start with a 6x6 sheet of paper with the white side up
+
+1. Mountain fold the bottom 6x1 strip
+
+2. Valley fold the leftmost 1x5 strip
+
+3. Mountain fold the top 5x1 strip
+
+4. Valley fold the rightmost 1x4 strip
+
+5. Mountain fold the leftmost 1x4 strip
+
+6. Valley fold the top 3x1 strip
+
+
+
+Pattern 8: 7x7, 6 steps
+
+XOO
+
+OOO
+
+OOX
+
+Start with a 7x7 sheet of paper with the white side up
+
+1. Valley fold the leftmost 1x7 strip
+
+2. Mountain fold the top 6x2 rectangle
+
+3. Valley fold the rightmost 1x5 strip
+
+4. Mountain fold the leftmost 1x5 strip
+
+5. Mountain fold the bottom 4x2 rectangle
+
+6. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 9: 7x7, 6 steps
+
+OXO
+
+XOO
+
+OOO
+
+Start with a 7x7 sheet of paper with the black side up
+
+1. Mountain fold the rightmost 1x7 strip
+
+2. Valley fold the bottom 6x1 strip
+
+3. Valley fold the top 6x2 rectangle
+
+4. Valley fold the rightmost 1x4 strip
+
+5. Mountain fold the top 5x1 strip
+
+6. Valley fold the rightmost 2x3 rectangle
+
+
+
+Pattern 10: 5x5, 3 steps
+
+OXO
+
+OXO
+
+OOO
+
+Start with a 5x5 sheet of paper with the white side up
+
+1. Mountain fold the rightmost 1x5 strip
+
+2. Mountain fold the leftmost 1x5 strip
+
+3. Valley fold the top 3x2 rectangle
+
+
+
+Pattern 11: 5x5, 4 steps
+
+OXO
+
+OOO
+
+OXO
+
+Start with a 5x5 sheet of paper with the white side up
+
+1. Mountain fold the rightmost 1x5 strip
+
+2. Mountain fold the leftmost 1x5 strip
+
+3. Valley fold the bottom 3x1 strip
+
+4. Valley fold the top 3x1 strip
+
+
+
+Pattern 12: 4x4, 2 steps
+
+XXX
+
+OOO
+
+OOO
+
+Start with a 4x4 sheet of paper with the white side up
+
+1. Valley fold the top 4x1 strip
+
+2. Mountain fold the leftmost 1x3 strip
+
+
+
+Pattern 13: 5x5, 4 steps
+
+XXO
+
+XOO
+
+OOO
+
+Start with a 5x5 sheet of paper with the white side up
+
+1. Mountain fold the bottom 5x1 strip
+
+2. Mountain fold the rightmost 1x4 strip
+
+3. Valley fold the top 4x1 strip
+
+4. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 14: 5x5, 4 steps
+
+XXO
+
+OXO
+
+OOO
+
+Start with a 5x5 sheet of paper with the black side up
+
+1. Valley fold the bottom 5x1 strip
+
+2. Valley fold the rightmost 1x4 strip
+
+3. Mountain fold the top 4x1 strip
+
+4. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 15: 7x7, 5 steps
+
+XXO
+
+OOX
+
+OOO
+
+Start with a 7x7 sheet of paper with the black side up
+
+1. Mountain fold the bottom 7x1 strip
+
+2. Valley fold the rightmost 2x6 rectangle
+
+3. Valley fold the bottom 5x2 rectangle
+
+4. Mountain fold the top 5x1 strip
+
+5. Valley fold the leftmost 2x3 rectangle
+
+
+
+Pattern 16: 6x6, 5 steps
+
+XXO
+
+OOO
+
+XOO
+
+Start with a 6x6 sheet of paper with the black side up
+
+1. Valley fold the bottom 6x1 strip
+
+2. Mountain fold the leftmost 1x5 strip
+
+3. Mountain fold the leftmost 1x5 strip
+
+4. Valley fold the bottom 4x2 rectangle
+
+5. Valley fold the rightmost 1x3 strip
+
+
+
+Pattern 17: 5x5, 4 steps
+
+XXO
+
+OOO
+
+OXO
+
+Start with a 5x5 sheet of paper with the white side up
+
+1. Mountain fold the rightmost 1x5 strip
+
+2. Valley fold the top 4x1 strip
+
+3. Mountain fold the leftmost 1x4 strip
+
+4. Valley fold the bottom 3x1 strip
+
+
+
+Pattern 18: 6x6, 5 steps
+
+XXO
+
+OOO
+
+OOX
+
+Start with a 6x6 sheet of paper with the black side up
+
+1. Mountain fold the bottom 6x1 strip
+
+2. Valley fold the rightmost 1x5 strip
+
+3. Mountain fold the top 5x1 strip
+
+4. Valley fold the bottom 5x1 strip
+
+5. Valley fold the leftmost 2x3 rectangle
+
+
+
+Pattern 19: 8x8, 7 steps
+
+XOX
+
+OXO
+
+OOO
+
+Start with a 8x8 sheet of paper with the white side up
+
+1. Mountain fold the bottom 8x2 rectangle
+
+2. Valley fold the top 8x1 strip
+
+3. Mountain fold the rightmost 1x5 strip
+
+4. Valley fold the top 7x2 rectangle
+
+5. Valley fold the leftmost 1x3 strip
+
+6. Mountain fold the rightmost 1x3 strip
+
+7. Valley fold the rightmost 2x3 rectangle
+
+
+
+Pattern 20: 6x6, 5 steps
+
+XOX
+
+OOO
+
+OOX
+
+Start with a 6x6 sheet of paper with the white side up
+
+1. Mountain fold the bottom 6x1 strip
+
+2. Valley fold the rightmost 1x5 strip
+
+3. Mountain fold the bottom 5x2 rectangle
+
+4. Valley fold the leftmost 1x3 strip
+
+5. Valley fold the rightmost 1x3 strip
+
+
+
+Pattern 21: 7x7, 8 steps
+
+XOX
+
+OOO
+
+OXO
+
+Start with a 7x7 sheet of paper with the white side up
+
+1. Valley fold the top 7x1 strip
+
+2. Mountain fold the rightmost 1x6 strip
+
+3. Mountain fold the leftmost 1x6 strip
+
+4. Valley fold the bottom 5x1 strip
+
+5. Valley fold the top 5x1 strip
+
+6. Mountain fold the top 5x1 strip
+
+7. Valley fold the rightmost 1x3 strip
+
+8. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 22: 7x7, 5 steps
+
+XOO
+
+OXO
+
+OXO
+
+Start with a 7x7 sheet of paper with the white side up
+
+1. Valley fold the rightmost 1x7 strip
+
+2. Mountain fold the bottom 6x2 rectangle
+
+3. Mountain fold the rightmost 2x5 rectangle
+
+4. Valley fold the leftmost 1x5 strip
+
+5. Valley fold the bottom 3x2 rectangle
+
+
+
+Pattern 23: 9x9, 9 steps
+
+XOO
+
+OXO
+
+OOX
+
+Start with a 9x9 sheet of paper with the black side up
+
+1. Valley fold the rightmost 1x9 strip
+
+2. Mountain fold the top 8x1 strip
+
+3. Mountain fold the rightmost 2x8 rectangle
+
+4. Valley fold the bottom 6x1 strip
+
+5. Valley fold the bottom 6x2 rectangle
+
+6. Valley fold the rightmost 1x5 strip
+
+7. Mountain fold the leftmost 1x5 strip
+
+8. Valley fold the top 4x2 rectangle
+
+9. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 24: 6x6, 5 steps
+
+OXO
+
+XXO
+
+OOO
+
+Start with a 6x6 sheet of paper with the black side up
+
+1. Valley fold the top 6x1 strip
+
+2. Valley fold the bottom 6x1 strip
+
+3. Mountain fold the rightmost 1x4 strip
+
+4. Valley fold the top 5x1 strip
+
+5. Valley fold the rightmost 2x3 rectangle
+
+
+
+Pattern 25: 7x7, 7 steps
+
+OXO
+
+XOX
+
+OOO
+
+Start with a 7x7 sheet of paper with the white side up
+
+1. Valley fold the bottom 7x1 strip
+
+2. Mountain fold the rightmost 1x6 strip
+
+3. Mountain fold the leftmost 1x6 strip
+
+4. Mountain fold the bottom 5x2 rectangle
+
+5. Valley fold the top 5x1 strip
+
+6. Valley fold the rightmost 1x3 strip
+
+7. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 26: 8x8, 9 steps
+
+OXO
+
+XOO
+
+OOX
+
+Start with a 8x8 sheet of paper with the white side up
+
+1. Mountain fold the leftmost 1x8 strip
+
+2. Valley fold the bottom 7x1 strip
+
+3. Mountain fold the rightmost 1x7 strip
+
+4. Valley fold the top 6x2 rectangle
+
+5. Valley fold the leftmost 1x5 strip
+
+6. Mountain fold the bottom 5x1 strip
+
+7. Mountain fold the top 5x1 strip
+
+8. Valley fold the leftmost 1x3 strip
+
+9. Valley fold the rightmost 1x3 strip
+
+
+
+Pattern 27: 5x5, 3 steps
+
+OXO
+
+OXO
+
+OXO
+
+Start with a 5x5 sheet of paper with the black side up
+
+1. Valley fold the rightmost 1x5 strip
+
+2. Valley fold the leftmost 1x5 strip
+
+3. Mountain fold the bottom 3x2 rectangle
+
+
+
+Pattern 28: 5x5, 3 steps
+
+XXX
+
+XOO
+
+OOO
+
+Start with a 5x5 sheet of paper with the black side up
+
+1. Mountain fold the top 5x1 strip
+
+2. Valley fold the bottom 5x1 strip
+
+3. Valley fold the rightmost 2x3 rectangle
+
+
+
+Pattern 29: 5x5, 4 steps
+
+XXX
+
+OXO
+
+OOO
+
+Start with a 5x5 sheet of paper with the black side up
+
+1. Mountain fold the top 5x1 strip
+
+2. Valley fold the rightmost 1x4 strip
+
+3. Valley fold the leftmost 1x4 strip
+
+4. Valley fold the bottom 3x1 strip
+
+
+
+Pattern 30: 5x5, 3 steps
+
+XXX
+
+OOO
+
+XOO
+
+Start with a 5x5 sheet of paper with the white side up
+
+1. Valley fold the top 5x1 strip
+
+2. Mountain fold the rightmost 2x4 rectangle
+
+3. Valley fold the bottom 3x1 strip
+
+
+
+Pattern 31: 5x5, 4 steps
+
+XXX
+
+OOO
+
+OXO
+
+Start with a 5x5 sheet of paper with the white side up
+
+1. Valley fold the top 5x1 strip
+
+2. Mountain fold the rightmost 1x4 strip
+
+3. Mountain fold the leftmost 1x4 strip
+
+4. Valley fold the bottom 3x1 strip
+
+
+
+Pattern 32: 4x4, 2 steps
+
+XXO
+
+XXO
+
+OOO
+
+Start with a 4x4 sheet of paper with the black side up
+
+1. Valley fold the bottom 4x1 strip
+
+2. Valley fold the rightmost 1x3 strip
+
+
+
+Pattern 33: 7x7, 6 steps
+
+XXO
+
+XOX
+
+OOO
+
+Start with a 7x7 sheet of paper with the white side up
+
+1. Valley fold the bottom 7x1 strip
+
+2. Mountain fold the rightmost 2x6 rectangle
+
+3. Mountain fold the bottom 5x2 rectangle
+
+4. Valley fold the rightmost 1x4 strip
+
+5. Valley fold the top 4x1 strip
+
+6. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 34: 8x8, 7 steps
+
+XXO
+
+XOO
+
+OOX
+
+Start with a 8x8 sheet of paper with the white side up
+
+1. Mountain fold the rightmost 1x8 strip
+
+2. Valley fold the top 7x3 rectangle
+
+3. Mountain fold the leftmost 1x5 strip
+
+4. Valley fold the rightmost 1x5 strip
+
+5. Mountain fold the top 5x2 rectangle
+
+6. Valley fold the leftmost 1x3 strip
+
+7. Valley fold the rightmost 1x3 strip
+
+
+
+Pattern 35: 6x6, 5 steps
+
+XXO
+
+OXX
+
+OOO
+
+Start with a 6x6 sheet of paper with the black side up
+
+1. Valley fold the leftmost 1x6 strip
+
+2. Mountain fold the bottom 5x1 strip
+
+3. Mountain fold the leftmost 1x5 strip
+
+4. Valley fold the rightmost 1x5 strip
+
+5. Valley fold the bottom 3x2 rectangle
+
+
+
+Pattern 36: 7x7, 6 steps
+
+XXO
+
+OXO
+
+XOO
+
+Start with a 7x7 sheet of paper with the black side up
+
+1. Valley fold the top 7x1 strip
+
+2. Mountain fold the leftmost 1x6 strip
+
+3. Valley fold the bottom 6x1 strip
+
+4. Mountain fold the rightmost 1x5 strip
+
+5. Valley fold the top 5x2 rectangle
+
+6. Valley fold the rightmost 2x3 rectangle
+
+
+
+Pattern 37: 5x5, 4 steps
+
+XXO
+
+OXO
+
+OXO
+
+Start with a 5x5 sheet of paper with the black side up
+
+1. Mountain fold the top 5x1 strip
+
+2. Valley fold the leftmost 1x4 strip
+
+3. Valley fold the top 4x1 strip
+
+4. Valley fold the rightmost 1x3 strip
+
+
+
+Pattern 38: 7x7, 7 steps
+
+XXO
+
+OXO
+
+OOX
+
+Start with a 7x7 sheet of paper with the black side up
+
+1. Mountain fold the bottom 7x1 strip
+
+2. Valley fold the rightmost 2x6 rectangle
+
+3. Valley fold the bottom 5x1 strip
+
+4. Mountain fold the top 5x1 strip
+
+5. Mountain fold the rightmost 1x4 strip
+
+6. Valley fold the bottom 4x1 strip
+
+7. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 39: 8x8, 7 steps
+
+XXO
+
+OOX
+
+XOO
+
+Start with a 8x8 sheet of paper with the white side up
+
+1. Valley fold the rightmost 1x8 strip
+
+2. Mountain fold the top 7x1 strip
+
+3. Valley fold the leftmost 1x7 strip
+
+4. Mountain fold the rightmost 2x7 rectangle
+
+5. Valley fold the top 4x3 rectangle
+
+6. Mountain fold the rightmost 1x4 strip
+
+7. Valley fold the top 3x1 strip
+
+
+
+Pattern 40: 8x8, 7 steps
+
+XXO
+
+OOX
+
+OXO
+
+Start with a 8x8 sheet of paper with the black side up
+
+1. Mountain fold the leftmost 1x8 strip
+
+2. Mountain fold the rightmost 1x8 strip
+
+3. Valley fold the bottom 6x3 rectangle
+
+4. Mountain fold the leftmost 2x5 rectangle
+
+5. Valley fold the rightmost 1x5 strip
+
+6. Valley fold the bottom 3x1 strip
+
+7. Valley fold the top 3x1 strip
+
+
+
+Pattern 41: 6x6, 5 steps
+
+XXO
+
+OOX
+
+OOX
+
+Start with a 6x6 sheet of paper with the white side up
+
+1. Mountain fold the rightmost 1x6 strip
+
+2. Valley fold the top 5x2 rectangle
+
+3. Valley fold the rightmost 1x4 strip
+
+4. Mountain fold the top 4x1 strip
+
+5. Valley fold the rightmost 1x3 strip
+
+
+
+Pattern 42: 5x5, 4 steps
+
+XXO
+
+OOO
+
+XXO
+
+Start with a 5x5 sheet of paper with the white side up
+
+1. Mountain fold the rightmost 1x5 strip
+
+2. Valley fold the bottom 4x1 strip
+
+3. Valley fold the top 4x1 strip
+
+4. Mountain fold the leftmost 1x3 strip
+
+
+
+Pattern 43: 7x7, 6 steps
+
+XXO
+
+OOO
+
+XOX
+
+Start with a 7x7 sheet of paper with the black side up
+
+1. Valley fold the leftmost 1x7 strip
+
+2. Mountain fold the bottom 6x1 strip
+
+3. Valley fold the rightmost 1x6 strip
+
+4. Mountain fold the top 5x2 rectangle
+
+5. Valley fold the leftmost 2x4 rectangle
+
+6. Valley fold the top 3x1 strip
+
+
+
+Pattern 44: 6x6, 6 steps
+
+XXO
+
+OOO
+
+OXX
+
+Start with a 6x6 sheet of paper with the white side up
+
+1. Mountain fold the rightmost 1x6 strip
+
+2. Valley fold the top 5x1 strip
+
+3. Mountain fold the leftmost 1x5 strip
+
+4. Valley fold the bottom 4x1 strip
+
+5. Mountain fold the rightmost 1x4 strip
+
+6. Valley fold the top 3x1 strip
+
+
+
+Pattern 45: 9x9, 8 steps
+
+XOX
+
+OXO
+
+XOO
+
+Start with a 9x9 sheet of paper with the black side up
+
+1. Mountain fold the top 9x1 strip
+
+2. Valley fold the rightmost 1x8 strip
+
+3. Valley fold the bottom 8x1 strip
+
+4. Mountain fold the top 8x2 rectangle
+
+5. Valley fold the rightmost 3x5 rectangle
+
+6. Mountain fold the bottom 5x2 rectangle
+
+7. Valley fold the leftmost 1x3 strip
+
+8. Valley fold the rightmost 1x3 strip
+
+
+
+Pattern 46: 7x7, 7 steps
+
+XOX
+
+OXO
+
+OXO
+
+Start with a 7x7 sheet of paper with the white side up
+
+1. Valley fold the top 7x1 strip
+
+2. Mountain fold the rightmost 1x6 strip
+
+3. Mountain fold the leftmost 1x6 strip
+
+4. Valley fold the bottom 5x2 rectangle
+
+5. Mountain fold the top 5x1 strip
+
+6. Valley fold the rightmost 1x3 strip
+
+7. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 47: 7x7, 6 steps
+
+XOX
+
+OOO
+
+XOX
+
+Start with a 7x7 sheet of paper with the black side up
+
+1. Valley fold the rightmost 1x7 strip
+
+2. Mountain fold the top 6x2 rectangle
+
+3. Mountain fold the bottom 6x1 strip
+
+4. Mountain fold the top 6x1 strip
+
+5. Valley fold the rightmost 2x3 rectangle
+
+6. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 48: 8x8, 7 steps
+
+XOO
+
+OXX
+
+OXO
+
+Start with a 8x8 sheet of paper with the black side up
+
+1. Mountain fold the top 8x1 strip
+
+2. Mountain fold the rightmost 1x7 strip
+
+3. Valley fold the bottom 7x2 rectangle
+
+4. Mountain fold the leftmost 1x5 strip
+
+5. Valley fold the rightmost 2x5 rectangle
+
+6. Valley fold the top 4x2 rectangle
+
+7. Valley fold the leftmost 1x3 strip
+
+
+
+Pattern 49: 6x6, 5 steps
+
+OXO
+
+XXX
+
+OOO
+
+Start with a 6x6 sheet of paper with the black side up
+
+1. Mountain fold the bottom 6x1 strip
+
+2. Valley fold the leftmost 1x5 strip
+
+3. Valley fold the rightmost 1x5 strip
+
+4. Valley fold the leftmost 1x5 strip
+
+5. Valley fold the bottom 3x2 rectangle
+
+
+
+Pattern 50: 9x9, 9 steps
+
+OXO
+
+XOX
+
+OXO
+
+Start with a 9x9 sheet of paper with the white side up
+
+1. Mountain fold the bottom 9x1 strip
+
+2. Valley fold the rightmost 2x8 rectangle
+
+3. Valley fold the bottom 7x1 strip
+
+4. Mountain fold the top 7x1 strip
+
+5. Mountain fold the rightmost 1x6 strip
+
+6. Valley fold the bottom 6x1 strip
+
+7. Mountain fold the bottom 6x2 rectangle
+
+8. Valley fold the rightmost 2x3 rectangle
+
+9. Valley fold the leftmost 1x3 strip

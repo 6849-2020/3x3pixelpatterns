@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="417" height="129" viewBox="0 -129 417 129">
+<defs>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" stroke="grey" id="d0">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" stroke-width="0.1" stroke="grey" fill="white" />
+</marker>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d1">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" stroke-width="0.1" stroke="black" fill="black" />
+</marker>
+</defs>
+<rect x="0" y="-33.0" width="33" height="33" fill="white" />
+<rect x="32" y="-33.0" width="33" height="33" fill="white" />
+<rect x="64" y="-33.0" width="33" height="33" fill="white" />
+<rect x="96" y="-33.0" width="33" height="33" fill="white" />
+<rect x="0" y="-65.0" width="33" height="33" fill="white" />
+<rect x="32" y="-65.0" width="33" height="33" fill="white" />
+<rect x="64" y="-65.0" width="33" height="33" fill="white" />
+<rect x="96" y="-65.0" width="33" height="33" fill="white" />
+<rect x="0" y="-97.0" width="33" height="33" fill="white" />
+<rect x="32" y="-97.0" width="33" height="33" fill="white" />
+<rect x="64" y="-97.0" width="33" height="33" fill="white" />
+<rect x="96" y="-97.0" width="33" height="33" fill="white" />
+<rect x="0" y="-129.0" width="33" height="33" fill="white" />
+<rect x="32" y="-129.0" width="33" height="33" fill="white" />
+<rect x="64" y="-129.0" width="33" height="33" fill="white" />
+<rect x="96" y="-129.0" width="33" height="33" fill="white" />
+<rect x="160" y="-49.0" width="33" height="33" fill="white" />
+<rect x="192" y="-49.0" width="33" height="33" fill="white" />
+<rect x="224" y="-49.0" width="33" height="33" fill="white" />
+<rect x="256" y="-49.0" width="33" height="33" fill="white" />
+<rect x="160" y="-81.0" width="33" height="33" fill="white" />
+<rect x="192" y="-81.0" width="33" height="33" fill="white" />
+<rect x="224" y="-81.0" width="33" height="33" fill="white" />
+<rect x="256" y="-81.0" width="33" height="33" fill="white" />
+<rect x="160" y="-113.0" width="33" height="33" fill="#bbb" />
+<rect x="192" y="-113.0" width="33" height="33" fill="#bbb" />
+<rect x="224" y="-113.0" width="33" height="33" fill="#bbb" />
+<rect x="256" y="-113.0" width="33" height="33" fill="#bbb" />
+<rect x="320" y="-49.0" width="33" height="33" fill="white" />
+<rect x="352" y="-49.0" width="33" height="33" fill="white" />
+<rect x="384" y="-49.0" width="33" height="33" fill="white" />
+<rect x="320" y="-81.0" width="33" height="33" fill="white" />
+<rect x="352" y="-81.0" width="33" height="33" fill="white" />
+<rect x="384" y="-81.0" width="33" height="33" fill="white" />
+<rect x="320" y="-113.0" width="33" height="33" fill="#bbb" />
+<rect x="352" y="-113.0" width="33" height="33" fill="#bbb" />
+<rect x="384" y="-113.0" width="33" height="33" fill="#bbb" />
+<path d="M32,-0.0 L32,-32.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M64,-0.0 L64,-32.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M96,-0.0 L96,-32.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M32,-32.0 L32,-64.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M64,-32.0 L64,-64.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M96,-32.0 L96,-64.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M32,-64.0 L32,-96.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M64,-64.0 L64,-96.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M96,-64.0 L96,-96.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M32,-96.0 L32,-128.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M64,-96.0 L64,-128.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M96,-96.0 L96,-128.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M0,-32.0 L32,-32.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M32,-32.0 L64,-32.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M64,-32.0 L96,-32.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M96,-32.0 L128,-32.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M0,-64.0 L32,-64.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M32,-64.0 L64,-64.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M64,-64.0 L96,-64.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M96,-64.0 L128,-64.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M0,-96.0 L32,-96.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M32,-96.0 L64,-96.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M64,-96.0 L96,-96.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M96,-96.0 L128,-96.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M192,-16.0 L192,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M224,-16.0 L224,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M256,-16.0 L256,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M192,-48.0 L192,-80.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M224,-48.0 L224,-80.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M256,-48.0 L256,-80.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M192,-80.0 L192,-112.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M224,-80.0 L224,-112.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M256,-80.0 L256,-112.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M160,-48.0 L192,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M192,-48.0 L224,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M224,-48.0 L256,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M256,-48.0 L288,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M352,-16.0 L352,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M384,-16.0 L384,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M352,-48.0 L352,-80.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M384,-48.0 L384,-80.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M352,-80.0 L352,-112.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M384,-80.0 L384,-112.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M320,-48.0 L352,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M352,-48.0 L384,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M384,-48.0 L416,-48.0" stroke="#ddd" stroke-width="1" fill="none" />
+<path d="M173.52479138593196,-64.0 A36.950417228136054,36.950417228136054,0,0,0,210.47520861406804,-64.0" stroke="grey" stroke-width="1" fill="none" marker-end="url(#d0)" />
+<path d="M0,-0.0 L128,-0.0 L128,-128.0 L0,-128.0 Z" stroke="black" stroke-width="2" fill="none" />
+<path d="M160,-80.0 L192,-80.0" stroke="black" stroke-width="2" fill="none" />
+<path d="M192,-80.0 L224,-80.0" stroke="black" stroke-width="2" fill="none" />
+<path d="M224,-80.0 L256,-80.0" stroke="black" stroke-width="2" fill="none" />
+<path d="M256,-80.0 L288,-80.0" stroke="black" stroke-width="2" fill="none" />
+<path d="M160,-16.0 L288,-16.0 L288,-112.0 L160,-112.0 Z" stroke="black" stroke-width="2" fill="none" />
+<path d="M320,-80.0 L352,-80.0" stroke="black" stroke-width="2" fill="none" />
+<path d="M352,-80.0 L384,-80.0" stroke="black" stroke-width="2" fill="none" />
+<path d="M384,-80.0 L416,-80.0" stroke="black" stroke-width="2" fill="none" />
+<path d="M320,-16.0 L416,-16.0 L416,-112.0 L320,-112.0 Z" stroke="black" stroke-width="2" fill="none" />
+<path d="M63.99999999999999,-114.47520861406802 A36.950417228136054,36.950417228136054,0,0,0,64.0,-77.52479138593196" stroke="black" stroke-width="1" fill="none" marker-end="url(#d1)" />
+<path d="M0,-96.0 L128,-96.0" stroke="black" stroke-width="1" fill="none" stroke-dasharray="4" />
+<path d="M192,-16.0 L192,-112.0" stroke="black" stroke-width="1" fill="none" stroke-dasharray="10 2 2 2" />
+</svg>

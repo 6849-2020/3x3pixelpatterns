@@ -449,4 +449,13 @@ def fewest_folds(pattern, max_size):
 def print_pattern(pattern):
     print('\n'.join(''.join('!X_'[i] for i in row) for row in pattern))
 
-find_unfolding(font['M'], 9, None, 8, True)
+#for char in font.keys():
+for char in 'NRVX':
+    print(' ')
+    print(char)
+    pattern = font[char]
+    print_pattern(pattern)
+    folds = find_unfolding(pattern, 9, None, 8, True)
+    print(folds)
+    if folds: folding_instructions(folds[1], folds[2], len(pattern[0]), len(pattern))
+    sys.stdout.flush()

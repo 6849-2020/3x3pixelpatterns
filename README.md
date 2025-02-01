@@ -10,4 +10,4 @@ Happy folding!
 
 ---
 
-This code was developed by MrQwerties during the MIT class [6.849: Geometric Folding Algorithms, Fall 2020](https://courses.csail.mit.edu/6.849/fall20/).
+This code was developed by Vincent Bian during the MIT class [6.849: Geometric Folding Algorithms, Fall 2020](https://courses.csail.mit.edu/6.849/fall20/).
